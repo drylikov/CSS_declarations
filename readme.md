@@ -122,7 +122,7 @@ Errors come from [`reworkcss/css`][css].
 
 [npm]: https://docs.npmjs.com/cli/install
 
-[license]: license
+
 
 [warning]: #function-warningreason-offset
 
