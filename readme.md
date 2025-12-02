@@ -17,6 +17,7 @@ Parse and stringify CSS declarations (such as the HTML `style` attribute).
 
 
 
+
 ## Install
 
 This package is ESM only: Node 12+ is needed to use it and it must be `import`ed
