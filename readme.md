@@ -9,9 +9,7 @@
 
 
 
-[![Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-badge]][downloads]
-[![Size][size-badge]][size]
+
 
 Parse and stringify CSS declarations (such as the HTML `style` attribute).
 
