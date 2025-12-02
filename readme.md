@@ -108,7 +108,7 @@ Errors come from [`reworkcss/css`][css].
 
 [coverage-badge]: https://img.shields.io/codecov/c/github/drylikov/css_declarations.svg
 
-[coverage]: https://codecov.io/github/drylikov/css-declarations
+[coverage]: https://codecov.io/github/drylikov/css_declarations
 
 [downloads-badge]: https://img.shields.io/npm/dm/css-declarations.svg
 
