@@ -105,7 +105,6 @@ Errors come from [`reworkcss/css`][css].
 <!-- Definitions -->
 
 
-
 [build]: https://github.com/drylikov/css-declarations/actions
 
 [coverage-badge]: https://img.shields.io/codecov/c/github/drylikov/css-declarations.svg
