@@ -1,5 +1,5 @@
 
-# css-declarations
+# CSS declarations
 
 [![Build][build-badge]][build]
 [![Coverage][coverage-badge]][coverage]
