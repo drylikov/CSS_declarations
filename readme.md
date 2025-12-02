@@ -104,7 +104,7 @@ Errors come from [`reworkcss/css`][css].
 
 <!-- Definitions -->
 
-[build-badge]: https://github.com/drylikov/css-declarations/workflows/main/badge.svg
+
 
 [build]: https://github.com/drylikov/css-declarations/actions
 
