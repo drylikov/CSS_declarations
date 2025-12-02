@@ -79,6 +79,7 @@ Parse CSS declarations from `string` to `object`.
 When given, `warning` is called when an error is encountered
 ([`Function`][warning]).
 
+
 ###### Returns
 
 `Object.<string>` — Declarations.
