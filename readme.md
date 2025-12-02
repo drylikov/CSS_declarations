@@ -123,7 +123,6 @@ Errors come from [`reworkcss/css`][css].
 [npm]: https://docs.npmjs.com/cli/install
 
 
-
 [warning]: #function-warningreason-offset
 
 [css]: https://github.com/reworkcss/css
