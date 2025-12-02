@@ -108,13 +108,13 @@ Errors come from [`reworkcss/css`][css].
 
 [coverage-badge]: https://img.shields.io/codecov/c/github/drylikov/css_declarations.svg
 
-[coverage]: https://codecov.io/github/drylikov/css_declarations
+[coverage]: https://codecov.io/github/drylikov/css+declarations
 
-[downloads-badge]: https://img.shields.io/npm/dm/css-declarations.svg
+[downloads-badge]: https://img.shields.io/npm/dm/css_declarations.svg
 
-[downloads]: https://www.npmjs.com/package/css-declarations
+[downloads]: https://www.npmjs.com/package/css_declarations
 
-[size-badge]: https://img.shields.io/bundlephobia/minzip/css-declarations.svg
+[size-badge]: https://img.shields.io/bundlephobia/minzip/css_declarations.svg
 
 [size]: https://bundlephobia.com/result?p=css-declarations
 
