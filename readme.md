@@ -29,7 +29,7 @@ npm install css-declarations
 ## Use
 
 ```js
-import {parse, stringify} from 'css-declarations'
+import {parse, stringify} from 'css_declarations'
 
 var values = parse(`
   color:/*red*/purple;
