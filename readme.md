@@ -9,8 +9,6 @@
 
 
 
-
-
 Parse and stringify CSS declarations (such as the HTML `style` attribute).
 
 
